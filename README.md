@@ -190,6 +190,20 @@ private void sendSMS(){
 ~~~
 ## OUTPUT:
 
+![image](https://github.com/Poojariyaa/smsintent/assets/127511817/17672e03-8cfe-4418-9ebd-29a86addcf67)
+
+![image](https://github.com/Poojariyaa/smsintent/assets/127511817/88ffdb37-e7d8-49ea-bd4f-b5e69d255a61)
+
+![image](https://github.com/Poojariyaa/smsintent/assets/127511817/fa7128ed-03e2-4bcc-a12a-18d171611258)
+
+![WhatsApp Image 2023-09-06 at 17 03 55](https://github.com/Poojariyaa/smsintent/assets/127511817/673c50a2-19ea-4264-9612-08c2d97fc866)
+
+![WhatsApp Image 2023-09-06 at 17 03 56](https://github.com/Poojariyaa/smsintent/assets/127511817/d247d431-6f65-4032-b677-51c335ffc47c)
+
+![WhatsApp Image 2023-09-06 at 17 03 56](https://github.com/Poojariyaa/smsintent/assets/127511817/f4d955d2-1731-42c9-8922-387e5e3a9763)
+
+![WhatsApp Image 2023-09-06 at 17 07 10](https://github.com/Poojariyaa/smsintent/assets/127511817/65089211-2539-4732-a9c0-7b81fcdf553b)
+
 
 ## RESULT
 Thus a Simple Android Application create and design an android application Send SMS using Intent using Android Studio is developed and executed successfully.
